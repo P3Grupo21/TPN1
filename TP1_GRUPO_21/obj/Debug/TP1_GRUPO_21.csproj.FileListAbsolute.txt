@@ -1,0 +1,11 @@
+C:\Users\letia\Desktop\El Aprendiz\Programación\UTN\2do Año\Programación III\UNIDAD 1 - APLICACIONES DE ESCRITORIO\TAREA 1\TP1_GRUPO_21\TP1_GRUPO_21\bin\Debug\TP1_GRUPO_21.exe.config
+C:\Users\letia\Desktop\El Aprendiz\Programación\UTN\2do Año\Programación III\UNIDAD 1 - APLICACIONES DE ESCRITORIO\TAREA 1\TP1_GRUPO_21\TP1_GRUPO_21\bin\Debug\TP1_GRUPO_21.exe
+C:\Users\letia\Desktop\El Aprendiz\Programación\UTN\2do Año\Programación III\UNIDAD 1 - APLICACIONES DE ESCRITORIO\TAREA 1\TP1_GRUPO_21\TP1_GRUPO_21\bin\Debug\TP1_GRUPO_21.pdb
+C:\Users\letia\Desktop\El Aprendiz\Programación\UTN\2do Año\Programación III\UNIDAD 1 - APLICACIONES DE ESCRITORIO\TAREA 1\TP1_GRUPO_21\TP1_GRUPO_21\obj\Debug\TP1_GRUPO_21.csproj.AssemblyReference.cache
+C:\Users\letia\Desktop\El Aprendiz\Programación\UTN\2do Año\Programación III\UNIDAD 1 - APLICACIONES DE ESCRITORIO\TAREA 1\TP1_GRUPO_21\TP1_GRUPO_21\obj\Debug\TP1_GRUPO_21.FormularioPrincipal.resources
+C:\Users\letia\Desktop\El Aprendiz\Programación\UTN\2do Año\Programación III\UNIDAD 1 - APLICACIONES DE ESCRITORIO\TAREA 1\TP1_GRUPO_21\TP1_GRUPO_21\obj\Debug\TP1_GRUPO_21.Properties.Resources.resources
+C:\Users\letia\Desktop\El Aprendiz\Programación\UTN\2do Año\Programación III\UNIDAD 1 - APLICACIONES DE ESCRITORIO\TAREA 1\TP1_GRUPO_21\TP1_GRUPO_21\obj\Debug\TP1_GRUPO_21.csproj.GenerateResource.cache
+C:\Users\letia\Desktop\El Aprendiz\Programación\UTN\2do Año\Programación III\UNIDAD 1 - APLICACIONES DE ESCRITORIO\TAREA 1\TP1_GRUPO_21\TP1_GRUPO_21\obj\Debug\TP1_GRUPO_21.csproj.CoreCompileInputs.cache
+C:\Users\letia\Desktop\El Aprendiz\Programación\UTN\2do Año\Programación III\UNIDAD 1 - APLICACIONES DE ESCRITORIO\TAREA 1\TP1_GRUPO_21\TP1_GRUPO_21\obj\Debug\TP1_GRUPO_21.exe
+C:\Users\letia\Desktop\El Aprendiz\Programación\UTN\2do Año\Programación III\UNIDAD 1 - APLICACIONES DE ESCRITORIO\TAREA 1\TP1_GRUPO_21\TP1_GRUPO_21\obj\Debug\TP1_GRUPO_21.pdb
+C:\Users\letia\Desktop\El Aprendiz\Programación\UTN\2do Año\Programación III\UNIDAD 1 - APLICACIONES DE ESCRITORIO\TAREA 1\TP1_GRUPO_21\TP1_GRUPO_21\obj\Debug\TP1_GRUPO_21.Ejercicio1.resources
