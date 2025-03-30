@@ -19,10 +19,16 @@ namespace TP1_GRUPO_21
 
         private void btnAgregar_Click(object sender, EventArgs e)
         {
-            if (string.IsNullOrWhiteSpace(textNombre.Text) || textNombre.Text == "Ingrese un nombre")
+            if (!string.IsNullOrWhiteSpace(textNombre.Text) || textNombre.Text == "Ingrese un nombre")
+            {
+                lbNombresIz.Items.Add(textNombre.Text);
+                textNombre.Text = "";
+            }
+            else
             {
                 MessageBox.Show("Debe ingresar un nombre válido.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
+
             }
         }
     }
