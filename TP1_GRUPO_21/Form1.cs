@@ -49,5 +49,13 @@ namespace TP1_GRUPO_21
             this.Show();
 
         }
+
+        private void btnEjercicio3_Click(object sender, EventArgs e)
+        {
+            var ejercicio3 = new Ejercicio3();
+            this.Hide();
+            ejercicio3.ShowDialog();
+            this.Show();
+        }
     }
 }

@@ -99,6 +99,7 @@
             this.btnEjercicio3.TabIndex = 5;
             this.btnEjercicio3.Text = "Ejercicio 3";
             this.btnEjercicio3.UseVisualStyleBackColor = true;
+            this.btnEjercicio3.Click += new System.EventHandler(this.btnEjercicio3_Click);
             // 
             // FormularioPrincipal
             // 
