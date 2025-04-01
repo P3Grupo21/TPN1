@@ -15,6 +15,7 @@ namespace TP1_GRUPO_21
         public FormularioPrincipal()
         {
             InitializeComponent();
+            this.Visible = false;
         }
 
         private void FormularioPrincipal_Load(object sender, EventArgs e)
@@ -29,9 +30,31 @@ namespace TP1_GRUPO_21
 
         private void btnEjercicio1_Click(object sender, EventArgs e)
         {
-            var ejercicio1 = new Ejercicio1();
+            Ejercicio1 ejercicio1 = new Ejercicio1();
             this.Hide();
             ejercicio1.ShowDialog();
+            this.Show();
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnEjercicio2_Click(object sender, EventArgs e)
+        {
+            Ejercicio2 ejercicio2 = new Ejercicio2();
+            this.Hide();      
+            ejercicio2.ShowDialog();
+            this.Show();
+
+        }
+
+        private void btnEjercicio3_Click(object sender, EventArgs e)
+        {
+            var ejercicio3 = new Ejercicio3();
+            this.Hide();
+            ejercicio3.ShowDialog();
             this.Show();
         }
     }
