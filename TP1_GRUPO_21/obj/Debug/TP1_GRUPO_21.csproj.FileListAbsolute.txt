@@ -20,3 +20,4 @@ C:\Users\natal\OneDrive\Escritorio\mart\tup\Progra III\TPN1-main\TPN1-main\TP1_G
 C:\Users\natal\OneDrive\Escritorio\mart\tup\Progra III\TPN1-main\TPN1-main\TP1_GRUPO_21\obj\Debug\TP1_GRUPO_21.csproj.CoreCompileInputs.cache
 C:\Users\natal\OneDrive\Escritorio\mart\tup\Progra III\TPN1-main\TPN1-main\TP1_GRUPO_21\obj\Debug\TP1_GRUPO_21.exe
 C:\Users\natal\OneDrive\Escritorio\mart\tup\Progra III\TPN1-main\TPN1-main\TP1_GRUPO_21\obj\Debug\TP1_GRUPO_21.pdb
+C:\Users\letia\Desktop\El Aprendiz\Programación\UTN\2do Año\Programación III\UNIDAD 1 - APLICACIONES DE ESCRITORIO\TAREA 1\TP1_GRUPO_21\TP1_GRUPO_21\obj\Debug\TP1_GRUPO_21.Ejercicio2.resources
