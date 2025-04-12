@@ -34,5 +34,10 @@ namespace TP1_GRUPO_21
             ejercicio1.ShowDialog();
             this.Show();
         }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

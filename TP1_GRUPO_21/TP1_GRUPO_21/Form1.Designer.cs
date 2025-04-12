@@ -34,6 +34,7 @@
             this.nombreDos = new System.Windows.Forms.Label();
             this.btnEjercicio2 = new System.Windows.Forms.Button();
             this.btnEjercicio3 = new System.Windows.Forms.Button();
+            this.label1 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // btnEjercicio1
@@ -88,6 +89,7 @@
             this.btnEjercicio2.TabIndex = 4;
             this.btnEjercicio2.Text = "Ejercicio 2";
             this.btnEjercicio2.UseVisualStyleBackColor = true;
+            this.btnEjercicio2.Click += new System.EventHandler(this.btnEjercicio2_Click);
             // 
             // btnEjercicio3
             // 
@@ -98,12 +100,24 @@
             this.btnEjercicio3.TabIndex = 5;
             this.btnEjercicio3.Text = "Ejercicio 3";
             this.btnEjercicio3.UseVisualStyleBackColor = true;
+            this.btnEjercicio3.Click += new System.EventHandler(this.btnEjercicio3_Click);
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(201, 342);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(183, 29);
+            this.label1.TabIndex = 6;
+            this.label1.Text = "Pugliese, Sofía";
             // 
             // FormularioPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(682, 1046);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.btnEjercicio3);
             this.Controls.Add(this.btnEjercicio2);
             this.Controls.Add(this.nombreDos);
@@ -127,6 +141,7 @@
         private System.Windows.Forms.Label nombreDos;
         private System.Windows.Forms.Button btnEjercicio2;
         private System.Windows.Forms.Button btnEjercicio3;
+        private System.Windows.Forms.Label label1;
     }
 }
 

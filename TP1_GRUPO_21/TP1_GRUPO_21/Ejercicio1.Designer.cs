@@ -118,7 +118,7 @@
             this.Controls.Add(this.label1);
             this.Name = "Ejercicio1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Ejercicio1 (Nombres)";
+            this.Text = " ";
             this.ResumeLayout(false);
             this.PerformLayout();
 
